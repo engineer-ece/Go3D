@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div{
     border-radius: 1%;
     background-color: lawngreen;
@@ -7,4 +8,15 @@ h1{
  color:black;
  padding-left: 4%;
  padding-top: 1%;
+=======
+div{
+    border-radius: 1%;
+    background-color: lawngreen;
+}
+
+h1{
+ color:black;
+ padding-left: 4%;
+ padding-top: 1%;
+>>>>>>> 9565d018adc089f58057adde6ccfa4b623df649c
 }
